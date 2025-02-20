@@ -1,7 +1,7 @@
 ![MasterHead](https://www.geeksforgeeks.org/wp-content/uploads/Java.png)
 
 <h1 align="center">Hi 👋, I'm Adarsh V</h1>
-<h3 align="center">A passionate Java programmer from India.</h3>
+<h3 align="center">A passionate Typescript programmer from India.</h3>
 <img align ="right" height="300" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshnrd&label=Profile%20views&color=0e75b6&style=flat" alt="adarshnrd" /> </p>
@@ -10,11 +10,11 @@
 
 - 📫 Leetcode. [https://leetcode.com/Adarshv/](https://leetcode.com/Adarshv/)
 
-- 💬 Ask me about **Java , JavaScript , DSA ,Docker.**
+- 💬 Ask me about **Java, JavaScript, TypeScript, Express, DSA, Docker.**
 
 - 📫 How to reach me **adarshvasu90@gmail.com**
 
-- ⚡ Fun fact **I don't let go any programming question that easily.**
+- ⚡ Fun fact **I don't let go of any programming question that easily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
